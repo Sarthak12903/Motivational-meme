@@ -1,0 +1,28 @@
+html{
+    background-color: black;
+}
+
+#image{
+    border: 5px solid white;
+    width: fit-content;
+    
+   
+}
+
+#all{
+    margin: 700px;
+    margin-top: 200px;
+}
+
+#heading{
+    color: white;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;  
+    text-transform: uppercase;
+}
+
+#para{
+    color: white;
+    text-align: center;
+}
